@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "816720695309",
+    "project_id": "hfv-app-2f84e",
+    "storage_bucket": "hfv-app-2f84e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816720695309:android:02a0fae9b86cbff065c544",
+        "android_client_info": {
+          "package_name": "com.cui.hfv_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816720695309-5ht5gol2f2mqcqt6rbv0nv91e5f27g4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwekjYxh9kcD6sj9XsCm2hPo_0-e6nDI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816720695309-5ht5gol2f2mqcqt6rbv0nv91e5f27g4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
